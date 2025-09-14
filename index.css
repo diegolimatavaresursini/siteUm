@@ -1,0 +1,24 @@
+body {
+     background-color: black;
+     color: white;
+	border-radius:50%;
+}
+.asmario {
+        text-align:right;
+}
+
+header{
+	
+	display:grid;
+    
+
+    justify-content: space-between;
+    
+}
+.img2{
+     width: 20%;
+}
+
+nav{
+     align-items: center;
+}
