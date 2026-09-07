@@ -24,22 +24,21 @@
 <header>
 	<h1>Bem-vindo aos console e seus jogos</h1>
 	<h2>escolha de acordo com seu perfil</h2>
-
+</header>
 
 <div>
 	<img src="https://i.gifer.com/37wQ.gif" width="30%">
 </div>
-		<section>
-	</section>
+		
+	
 <hr style="width:50%;height:3px;background-color:red">
-<article>
-<div>
+<section>
 	<h1>Atari<a href ="https://www.atari2600.com.br/Sites/Atari/AtariFull.aspx"></a></h1>
         <ul>
             <li>Atlantis</li>
             <li>Boxing</li>
            <li>River raid</li>
-</div> 
+</section> 
 
 <div>     
    
@@ -51,19 +50,19 @@
             <li>super mario bros.</li>
             <li>Double dragon</li>
 	</ol>
-</div>
-<div>      
+</section>
+<aside>      
   </ul>
         <ol><h1>Mega drive</h1>
             <li>Sonic</li>
             <li>Kid chameleon</li>
             <li>Mickey</li>
-</div>  
+</aside>  
    </ol>
-<div>
+<section>
 <img src="https://i.gifer.com/1iBn.gif" alt="donkey kong happy" widht="90" height="90">
-</header>
-</div>
+
+</section>
         <ol type="I"><h1>Super Nes</h1>
             <li>Super Mario Kart</li>
             <li>Donkey Kong</li>
