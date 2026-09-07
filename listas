@@ -2,95 +2,103 @@
 <html lang="pt-br">
 
 <head>
-		<meta charset="utf-8">
-		<title>ursinigroup</title>
-		<meta name="description" content="Programador Front-End, Senai.">
+    <meta charset="utf-8">
+    <title>ursinigroup</title>
+    <meta name="description" content="Programador Front-End, Senai.">
     <meta name="keywords" content="HTML, CSS, JavaScript, Senai">
     <meta name="author" content="diego_ursini">
-    <meta name="viewport" content="Width=device-width, initial-scale=1.0">
-<table style="border: 1px solid black">
-<link rel="icon" href="./736540.png"/>
-<link href="ursini_html/736540.png" />
-<link rel="stylesheet" href="listas.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="icon" href="./736540.png">
+    <link rel="stylesheet" href="listas.css">
 </head>
 
 <body>
 
 <nav id="menu">
-	<a href="index.html">home</a>
-	<a href="listas.html">listas</a>
-	<a href="cursos.html">cursos</a>
-	<a href="forms.html">forms</a>
-	<a href="contato.html">contato</a>
+    <a href="index.html">home</a>
+    <a href="listas.html">listas</a>
+    <a href="cursos.html">cursos</a>
+    <a href="forms.html">forms</a>
+    <a href="contato.html">contato</a>
 </nav>
 
 <header>
-	<h1>Bem-vindo aos console e seus jogos</h1>
-	<h2>escolha de acordo com seu perfil</h2>
+    <h1>Bem-vindo aos consoles e seus jogos</h1>
+    <h2>escolha de acordo com seu perfil</h2>
 </header>
 
 <div>
-	<img src="https://i.gifer.com/37wQ.gif" width="30%">
+    <img src="https://i.gifer.com/37wQ.gif" width="30%" alt="Animação de boas-vindas">
 </div>
-		
-	
-<hr style="width:50%;height:3px;background-color:red">
-<section>
-	<h1>Atari<a href ="https://www.atari2600.com.br/Sites/Atari/AtariFull.aspx"></a></h1>
-        <ul>
-            <li>Atlantis</li>
-            <li>Boxing</li>
-           <li>River raid</li>
-        </ul>
-</section> 
-    
-   
-<section>
-<img src="./ab1898cbe2a4729f00d308400878d1e9.gif" widht="90" height="90">
-</section>
-        <ol type="a"><b><h1>NES</b>Nintendinho 8bits</h1>
-            <li>super pitfall</li>
-            <li>super mario bros.</li>
-            <li>Double dragon</li>
-	</ol>
-<aside>      
-  
- <ol>       <h1>Mega drive</h1>
-            <li>Sonic</li>
-            <li>Kid chameleon</li>
-            <li>Mickey</li>
-  
-   </ol>
-</aside>
-<section>
-<img src="https://i.gifer.com/1iBn.gif" alt="donkey kong happy" widht="90" height="90">
+        
+<hr style="width:50%; height:3px; background-color:red">
 
+<section>
+    <h1>Atari <a href="https://www.atari2600.com.br/Sites/Atari/AtariFull.aspx"></a></h1>
+    <ul>
+        <li>Atlantis</li>
+        <li>Boxing</li>
+        <li>River raid</li>
+    </ul>
+</section>    
+
+<section>
+    <img src="./ab1898cbe2a4729f00d308400878d1e9.gif" width="90" height="90" alt="Atari gif">
 </section>
-        <ol type="I"><h1>Super Nes</h1>
-            <li>Super Mario Kart</li>
-            <li>Donkey Kong</li>
-            <li>Megaman X</li></div>
-    
+
+<section>
+    <h1>NES - Nintendinho 8bits</h1>
+    <ol type="a">
+        <li>super pitfall</li>
+        <li>super mario bros.</li>
+        <li>Double dragon</li>
     </ol>
-        <dl><h1>Play Station</h1>
-<img src="./c70211ad36132e447b7786b99790fd5e_w200.gif">
-            <dt>metal slug</dt>
-            <dd>nascar rumble</dd>
-            <dd>mortal kombat</dd>
-            <dt>the king of fighters</dt>
-            <dd>turok</dd>
-            <dd>fifa 98</dd>
-            <dd>tekken 3</dd>
-        </dl>
+</section>
+
+<aside>    
+    <h1>Mega Drive</h1>
+    <ol>
+        <li>Sonic</li>
+        <li>Kid chameleon</li>
+        <li>Mickey</li>
+    </ol>
+</aside>
+
+<section>
+    <img src="https://i.gifer.com/1iBn.gif" alt="donkey kong happy" width="90" height="90">
+</section>
+
+<section>
+    <h1>Super NES</h1>
+    <ol type="I">
+        <li>Super Mario Kart</li>
+        <li>Donkey Kong</li>
+        <li>Megaman X</li>
+    </ol>
+</section>
+
+<section>
+    <h1>PlayStation</h1>
+    <img src="./c70211ad36132e447b7786b99790fd5e_w200.gif" alt="PlayStation gif">
+    <dl>
+        <dt>metal slug</dt>
+        <dd>nascar rumble</dd>
+        <dd>mortal kombat</dd>
+        <dt>the king of fighters</dt>
+        <dd>turok</dd>
+        <dd>fifa 98</dd>
+        <dd>tekken 3</dd>
+    </dl>
+</section>
 
 <footer>
-	<div style="float:left">
-		<p>autor: Diego Lima Tavares Ursini by BLusoft, Entra21 & SENAI-SP</p>
-	</div>
-	<div style="float:right">
-	</div>
+    <div style="float:left">
+        <p>autor: Diego Lima Tavares Ursini by BLusoft, Entra21 & SENAI-SP</p>
+    </div>
+    <div style="float:right">
+    </div>
 </footer>
-	
+    
 </body>
 </html>
