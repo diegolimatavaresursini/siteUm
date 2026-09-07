@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-	<head>
+
+<head>
 		<meta charset="utf-8">
 		<title>ursinigroup</title>
 		<meta name="description" content="Programador Front-End, Senai.">
@@ -11,16 +12,19 @@
 <link rel="icon" href="./736540.png"/>
 <link href="ursini_html/736540.png" />
 <link rel="stylesheet" href="listas.css">
-	</head>
-	<body>
+
+</head>
+
+<body>
+
 <nav id="menu">
 	<a href="index.html">home</a>
 	<a href="listas.html">listas</a>
 	<a href="cursos.html">cursos</a>
 	<a href="forms.html">forms</a>
 	<a href="contato.html">contato</a>
-
 </nav>
+
 <header>
 	<h1>Bem-vindo aos console e seus jogos</h1>
 	<h2>escolha de acordo com seu perfil</h2>
@@ -38,9 +42,9 @@
             <li>Atlantis</li>
             <li>Boxing</li>
            <li>River raid</li>
+        </ul>
 </section> 
-
-<div>     
+    
    
 <section>
 <img src="./ab1898cbe2a4729f00d308400878d1e9.gif" widht="90" height="90">
@@ -50,15 +54,15 @@
             <li>super mario bros.</li>
             <li>Double dragon</li>
 	</ol>
-</section>
 <aside>      
-  </ul>
-        <ol><h1>Mega drive</h1>
+  
+ <ol>       <h1>Mega drive</h1>
             <li>Sonic</li>
             <li>Kid chameleon</li>
             <li>Mickey</li>
-</aside>  
+  
    </ol>
+</aside>
 <section>
 <img src="https://i.gifer.com/1iBn.gif" alt="donkey kong happy" widht="90" height="90">
 
@@ -67,7 +71,7 @@
             <li>Super Mario Kart</li>
             <li>Donkey Kong</li>
             <li>Megaman X</li></div>
-<div>    
+    
     </ol>
         <dl><h1>Play Station</h1>
 <img src="./c70211ad36132e447b7786b99790fd5e_w200.gif">
@@ -79,7 +83,7 @@
             <dd>fifa 98</dd>
             <dd>tekken 3</dd>
         </dl>
-</div>
+
 <footer>
 	<div style="float:left">
 		<p>autor: Diego Lima Tavares Ursini by BLusoft, Entra21 & SENAI-SP</p>
